@@ -21,6 +21,6 @@ If you answered yes to any of the above, give this tool a try! More information 
 
 ## Game Board
 
-*Not yet hosted externally*
+[Game Board Tournaments](https://keeganw.github.io/game-board/)
 
 Have you been playing board games with friends, and want to keep track of statistics about your play styles? For example, who wins the most? Who plays what genres of games better? How far behind first place do you place on average? These and many more things can be discovered just by entering your games into this tool.
