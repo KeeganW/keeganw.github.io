@@ -4,7 +4,7 @@ Here are some projects I have written that you might find interesting...
 
 ## Pick Player
 
-[Link to Pick Player](https://keeganw.github.io/pick-player)
+[Pick Player](https://keeganw.github.io/pick-player)
 
 Have you ever needed to pick one person out of a group? Use this tool to do it and maybe learn something new about a friend!
 
